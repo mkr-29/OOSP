@@ -1,0 +1,11 @@
+Experiment 3
+
+a) Employees have a number, date of birth (dd-mm-yyyy), rank, and salary. When an employee is first
+    recruited then all these are given values of 0. Upon confirmation, the actual values of these are entered
+    for the employee. Their rank can be incremented by 1 and when this happens an employee gets an
+    increment of 25%. Write a C++ class for Employee.
+
+b) Students are registered in a University. When students are created then they are given default values
+    (zeroes or blanks) for roll_number, department, year, and semester of study. At registration time, the
+    values of these attributes of student are updated with the proper values. Students can be promoted
+    and their departments can be changed. Write a C++ class for Student.
