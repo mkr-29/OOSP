@@ -68,5 +68,6 @@ int main(){
                 }
             }
         }
+        cout<<"Enter 'y' if you want to continue or 'n' to Exit:";cin>>option;
     }
 }
