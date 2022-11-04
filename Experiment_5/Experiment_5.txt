@@ -1,0 +1,7 @@
+Experiment 5
+
+Define two classes Distance1 and Distance2 in C++. Distance1 stores distance in miles and
+Distance2 in kmeters & meters. Write a program that reads values of the class objects and adds one
+object of Distance1 with the object of Distance2 class. The display should be in the format of miles
+or kmeters & meters depending on the type of object (Distance1 or Distance2) being used to invoke
+the function. (Hint: Make use of friend function).

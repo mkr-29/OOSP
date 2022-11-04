@@ -1,0 +1,4 @@
+Users of the computer have profile which consists of Name, Password, and Access Rights. Access
+rights take on values X, R, W, and ALL. It is possible to have default values for Password and
+Access rights which are the first three letters of the Name and ALL respectively. Users can change
+their password and access rights. Write a class User in C++ and create a user named Rajesh.
